@@ -1,0 +1,5 @@
+  name: CustomWorldGenerator
+  main: de.einjojo.worldgenerator.WorldGenerator
+  version: 1.1
+  author: Ein_Jojo
+  description: Generate a map similar to a chessboard
